@@ -9,7 +9,7 @@ Ensure you have the following installed:
 
 ## Cloning the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Saragorule13/SocialIQ_.git
 ```
 ## Install Node modules
 ```s
