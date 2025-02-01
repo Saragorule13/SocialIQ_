@@ -4,8 +4,8 @@ follow the instructions to setup this project on your device.
 
 ## Prerequisites
 Ensure you have the following installed:
-> Node.js (LTS version recommended)
-> Git
+-> Node.js (LTS version recommended)
+-> Git
 
 ## Cloning the Repository
 ```sh
